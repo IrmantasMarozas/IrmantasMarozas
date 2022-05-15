@@ -87,4 +87,5 @@ code --install-extension wraith13.bracket-lens
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension ZainChen.json
 code --install-extension ziyasal.vscode-open-in-github
+code --install-extension hediet.vscode-drawio
 ```
