@@ -7,10 +7,10 @@ code --install-extension alefragnani.Bookmarks
 code --install-extension alefragnani.project-manager
 code --install-extension alexcvzz.vscode-sqlite
 code --install-extension alexkrechik.cucumberautocomplete
+code --install-extension asciidoctor.asciidoctor-vscode
 code --install-extension aws-scripting-guy.cform
 code --install-extension batisteo.vscode-django
 code --install-extension codezombiech.gitignore
-code --install-extension CoenraadS.bracket-pair-colorizer-2
 code --install-extension crhistianr.jira-issues
 code --install-extension cschlosser.doxdocgen
 code --install-extension cstrap.flask-snippets
@@ -34,11 +34,13 @@ code --install-extension GrapeCity.gc-excelviewer
 code --install-extension Gruntfuggly.todo-tree
 code --install-extension hangxingliu.vscode-nginx-conf-hint
 code --install-extension hashicorp.terraform
+code --install-extension hediet.vscode-drawio
 code --install-extension IgorSbitnev.error-gutters
 code --install-extension ivory-lab.jenkinsfile-support
 code --install-extension jtavin.ldif
 code --install-extension kevinglasson.cornflakes-linter
 code --install-extension KevinRose.vsc-python-indent
+code --install-extension kubescape.kubescape
 code --install-extension mads-hartmann.bash-ide-vscode
 code --install-extension marp-team.marp-vscode
 code --install-extension mgtrrz.terraform-completer
@@ -46,6 +48,7 @@ code --install-extension mhutchie.git-graph
 code --install-extension mohsen1.prettify-json
 code --install-extension mrorz.language-gettext
 code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-kubernetes-tools.vscode-kubernetes-tools
 code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
 code --install-extension ms-toolsai.jupyter
@@ -54,6 +57,8 @@ code --install-extension ms-toolsai.jupyter-renderers
 code --install-extension ms-vscode-remote.remote-containers
 code --install-extension ms-vscode-remote.remote-ssh
 code --install-extension ms-vscode-remote.remote-ssh-edit
+code --install-extension ms-vscode-remote.remote-wsl
+code --install-extension ms-vscode-remote.vscode-remote-extensionpack
 code --install-extension ms-vscode.azurecli
 code --install-extension ms-vscode.hexeditor
 code --install-extension ms-vscode.powershell
@@ -68,6 +73,7 @@ code --install-extension PKief.material-icon-theme
 code --install-extension redhat.java
 code --install-extension redhat.vscode-yaml
 code --install-extension rpinski.shebang-snippets
+code --install-extension shardulm94.trailing-spaces
 code --install-extension sidp.strict-whitespace
 code --install-extension SonarSource.sonarlint-vscode
 code --install-extension streetsidesoftware.code-spell-checker
@@ -87,5 +93,4 @@ code --install-extension wraith13.bracket-lens
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension ZainChen.json
 code --install-extension ziyasal.vscode-open-in-github
-code --install-extension hediet.vscode-drawio
 ```
